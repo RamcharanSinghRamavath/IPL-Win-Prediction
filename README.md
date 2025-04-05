@@ -22,7 +22,8 @@ The model is trained on **two key IPL datasets**:
 ## 📸 Screenshots
 
 ### Win Probability Output
-![Screenshot](https://raw.githubusercontent.com/RamcharanSinghRamavath/IPL-Win-Prediction/main/Images/Screenshot%202025-04-05%20155727.png)
+![Screenshot](https://raw.githubusercontent.com/RamcharanSinghRamavath/IPL-Win-Prediction/main/Images/Screenshot%202025-04-05%20%20155727.png)
+
 
 ### Main App Interface
 ![Screenshot](https://raw.githubusercontent.com/RamcharanSinghRamavath/IPL-Win-Prediction/main/Images/Screenshot%202025-04-05%20155837.png)
