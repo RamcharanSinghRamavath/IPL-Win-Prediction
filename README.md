@@ -19,6 +19,15 @@ The model is trained on **two key IPL datasets**:
 1. `matches.csv` – Contains details of IPL matches from 2008 to 2024, including teams, venues, toss details, and match results.
 2. `deliveries.csv` – Provides ball-by-ball data for every IPL match, including batsman, bowler, runs, and dismissal information.
 
+## 📸 Screenshots
+
+### Win Probability Output
+![Screenshot](https://raw.githubusercontent.com/RamcharanSinghRamavath/IPL-Win-Prediction/main/Images/Screenshot%202025-04-05%20155727.png)
+
+### Main App Interface
+![Screenshot](https://raw.githubusercontent.com/RamcharanSinghRamavath/IPL-Win-Prediction/main/Images/Screenshot%202025-04-05%20155837.png)
+
+
 ## ⚙️ Technologies Used
 
 - **Python** (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
