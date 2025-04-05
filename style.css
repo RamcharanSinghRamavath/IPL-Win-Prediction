@@ -1,0 +1,81 @@
+/* Gradient Background */
+body {
+    background: linear-gradient(135deg, #1E1E1E, #121212);
+    font-family: 'Poppins', sans-serif;
+    color: #ffffff;
+}
+
+/* Title Styling */
+.title {
+    text-align: center;
+    font-size: 3rem;
+    color: #ffcc00;
+    font-weight: bold;
+    text-shadow: 0px 0px 15px rgba(255, 204, 0, 0.8);
+    margin-top: 20px;
+    animation: fadeInDown 1s ease-in-out;
+}
+
+/* Sidebar Styling */
+.st-emotion-cache-1y4p8pa {
+    background: #222831 !important;
+    color: #eeeeee;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+/* Prediction Result Box */
+.result {
+    text-align: center;
+    background: rgba(255, 255, 255, 0.1);
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 15px rgba(255, 204, 0, 0.6);
+    animation: fadeInUp 1s ease-in-out;
+    margin-top: 30px;
+}
+
+/* Win Probability Text */
+.result h2 {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #00c9ff;
+    text-shadow: 0px 0px 10px rgba(0, 201, 255, 0.8);
+}
+
+/* Progress Bar Container */
+.bar-container {
+    width: 100%;
+    height: 25px;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 12px;
+    overflow: hidden;
+    margin-top: 15px;
+}
+
+/* Progress Bar Fill */
+.bar {
+    height: 100%;
+    border-radius: 12px;
+    background: linear-gradient(90deg, #ffcc00, #ff6600);
+    transition: width 1s ease-in-out;
+}
+
+/* Footer */
+footer {
+    margin-top: 50px;
+    text-align: center;
+    color: #999;
+    font-size: 0.9rem;
+}
+
+/* Animations */
+@keyframes fadeInUp {
+    from { opacity: 0; transform: translateY(30px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes fadeInDown {
+    from { opacity: 0; transform: translateY(-30px); }
+    to { opacity: 1; transform: translateY(0); }
+}
