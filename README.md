@@ -27,6 +27,33 @@ The model is trained on **two key IPL datasets**:
 - **Flask** (If additional backend support is required)
 - **Jupyter Notebook** (For model development and analysis)
 
+## 📂 Folder Structure
+
+IPL-WIN-PREDICTOR-/
+│
+├── app.py
+│
+├── code.ipynb
+
+
+├── datasets/
+
+│   ├── matches.csv
+
+│   └── deliveries.xlsx
+
+├── Images/             
+│   ├── Screenshot_1.png
+
+│   └── Screenshot_2.png
+
+├── requirements.txt
+
+└── README.md
+
+## Live Preview
+
+
 ## 📌 How to Use
 
 1. Clone the repository:
