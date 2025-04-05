@@ -30,7 +30,7 @@ The model is trained on **two key IPL datasets**:
 
 ## 🚀 Live Demo
 
-👉 [Click here to try the app](http://localhost:8501/)
+👉 [Click here to try the app](https://ipl-win-prediction-y6du.onrender.com)
 
 ## ⚙️ Technologies Used
 
