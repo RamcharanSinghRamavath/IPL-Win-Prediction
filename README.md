@@ -28,6 +28,10 @@ The model is trained on **two key IPL datasets**:
 ![Screenshot](https://raw.githubusercontent.com/RamcharanSinghRamavath/IPL-Win-Prediction/main/Images/Screenshot%202025-04-05%20155837.png)
 
 
+## 🚀 Live Demo
+
+👉 [Click here to try the app](https://ipl-win-prediction-y6du.onrender.com)
+
 ## ⚙️ Technologies Used
 
 - **Python** (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
@@ -59,8 +63,6 @@ IPL-WIN-PREDICTOR-/
 ├── requirements.txt
 
 └── README.md
-
-## Live Preview
 
 
 ## 📌 How to Use
